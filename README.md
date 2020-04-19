@@ -6,7 +6,7 @@ Copyright 2013-2015 by Chris Young http://tech.cyborg5.com/irlib/
 ## MAJOR UPDATES BY GABRIEL STAPLES, January 2016:  
 **-I just put ~50+ hrs into this library to improve it, and beef it up for my own personal needs and use, and to make double-buffered features and external pin-change-interrupt-based IR receives rock-solid and reliable, so I can begin using this library with*out* taking up any timers, when in receive-only mode. I hope to get this whole thing merged back into Chris Young's main fork, so hopefully that works out...**  
 
-Update 19 Apr. 2020: it didn't work out. :(. He just closed my PR today. See: https://github.com/cyborg5/IRLib/pull/17. _Nevertheless, I still strongly recommend my fork of the IRLib1 library._ As for [his new IRLib2 library](https://github.com/cyborg5/IRLib2), I cannot say, as I have not yet looked into it, analyzed it, or tested it either.
+Update 19 Apr. 2020: it didn't work out. :(. He just closed my PR today without merging it. See: https://github.com/cyborg5/IRLib/pull/17. _Nevertheless, I still strongly recommend my fork of the IRLib1 library._ As for [his new IRLib2 library](https://github.com/cyborg5/IRLib2), I cannot say, as I have not yet looked into it, analyzed it, or tested it either.
 
 ## Version 1.6.0 Updgrade/Change Notes, 30 January 2016:  
   By Gabriel Staples (www.ElectricRCAircraftGuy.com):  
